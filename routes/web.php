@@ -21,4 +21,7 @@ Auth::routes();
 
 Route::get('/homepage', [App\Http\Controllers\WelcomeController::class, 'index']);
 Route::get('/service', [App\Http\Controllers\WelcomeController::class, 'service']);
+Route::get('/service_summary', [App\Http\Controllers\WelcomeController::class, 'summaryAnswer']);
+Route::get('/service_result', [App\Http\Controllers\WelcomeController::class, 'prosestKonsultasi']);
+Route::get('/service_get_bobot/{bobot}/{id_gejala}', [App\Http\Controllers\WelcomeController::class, 'getTempAnswer']);
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
