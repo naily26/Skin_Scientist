@@ -10,6 +10,7 @@
             </div>
             <div class="col-md-12">
                 <form>
+                   
                     <table class="table table-striped ">
                         <thead>
                             <tr>
@@ -52,7 +53,7 @@
             @endforeach
             </tbody>
             </table>
-            <a href="/service_summary"><button type="button" class="btn btn-danger right">Next</button></a>
+            <a href="/service_summary"><button type="button" class="read_more">Next</button></a>
             </form>
         </div>
     </div>

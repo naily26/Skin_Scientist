@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="titlepage">
-                    <h2> <img src="images/head.png" alt="#" /> Fill The Form</h2>
+                    <h2> <img src="images/head.png" alt="#" />  Please Check Your Answers</h2>
                 </div>
             </div>
             <div class="col-md-12">
@@ -65,7 +65,12 @@
                   </tbody>
                 </table>
                   @php Session::put('arrFixKonsul',$arrFix); @endphp
-                  <a href="/service_result"><button type="button" class="btn btn-danger right">Next</button></a>
+                  {{-- <a href="/service"><button type="button" class="read_more">Reset</button></a>
+                  <a href="/service_result"><button type="button" class="btn btn-danger right">Next</button></a> --}}
+
+                  <a href="/service_result"><button type="button" class="read_more">Next</button></a>
+                  <a href="/service"><button type="button" class="read_more">Reset</button></a>
+                  
             </form>
         </div>
     </div>

@@ -19,8 +19,8 @@
                               <div class="text-bg">
                                  <span>Welcome to</span>
                                  <h1>SkinScientist</h1>
-                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
-                                 <a href="#">Read More </a> <a href="#">Book Now</a>
+                                 {{-- <p>Temukan jenis kulitmu dan solusi perawatan terbaikmu </p> --}}
+                                 {{-- <a href="#">Read More </a> <a href="#">Book Now</a> --}}
                               </div>
                            </div>
                            <div class="col-md-6">
@@ -39,9 +39,9 @@
                            <div class="col-md-6">
                               <div class="text-bg">
                                  <span>Welcome to</span>
-                                 <h1>labspa</h1>
-                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
-                                 <a href="#">Read More </a> <a href="#">Book Now</a>
+                                 <h1>SkinScientist</h1>
+                                 {{-- <p>Temukan jenis kulitmu dan solusi perawatan terbaikmu </p> --}}
+                                 {{-- <a href="#">Read More </a> <a href="#">Book Now</a> --}}
                               </div>
                            </div>
                            <div class="col-md-6">
@@ -60,9 +60,9 @@
                            <div class="col-md-6">
                               <div class="text-bg">
                                  <span>Welcome to</span>
-                                 <h1>labspa</h1>
-                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are </p>
-                                 <a href="#">Read More </a> <a href="#">Book Now</a>
+                                 <h1>SkinScientist</h1>
+                                 {{-- <p>Temukan jenis kulitmu dan solusi perawatan terbaikmu</p> --}}
+                                 {{-- <a href="#">Read More </a> <a href="#">Book Now</a> --}}
                               </div>
                            </div>
                            <div class="col-md-6">
@@ -130,7 +130,7 @@
                <div class="col-md-9">
                   <div class="titlepage">
                      <h2> <img src="images/head.h.png" alt="#"/> About Our Skin Scientist</h2>
-                     <p>Skin Scienties merupakan aplikasi yang dapat membantu anda dalam mengetahui jenis kulit wajah dan memberikan solusi perawatan berdasarkan jenis kulit wajah. Sehingga masalah kulit wajah dapat diatasi tanpa melakukan konsultasi terlebi dahulu kepada dokter, karena aplikasi ini dibuat berdasarkan data yang diperoleh dari sistem pakar. Tingkat akurasi dari aplikasi ini sudah teruji dengan melakukan pengujian yang membandingan antara perhitungan manual menggunakan metode certainty factor menghasilkan nilai yang sama dengan hasil akhir aplikasi ini.</p>
+                     <p>Skin Scienties merupakan aplikasi yang dapat membantu anda dalam mengetahui jenis kulit wajah dan memberikan solusi perawatan berdasarkan jenis kulit wajah. Sehingga masalah kulit wajah masih bisa diatasi ketika tidak dapat melakukan konsultasi kepada dokter, karena aplikasi ini dibuat berdasarkan data yang diperoleh dari sistem pakar. Tingkat akurasi dari aplikasi ini sudah teruji dan layak untuk digunakan.</p>
                      {{-- <a class="read_more">Read More</a> --}}
                   </div>
                </div>

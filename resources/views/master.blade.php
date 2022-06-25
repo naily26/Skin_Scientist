@@ -52,8 +52,8 @@
                         </button>
                         <div class="collapse navbar-collapse" id="navbarsExample04">
                            <ul class="navbar-nav mr-auto">
-                              <li class="nav-item active">
-                                 <a class="nav-link" href="index.html"> Home  </a>
+                              <li class="nav-item">
+                                 <a class="nav-link" href="/"> Home  </a>
                               </li>
                               
                               <li class="nav-item">
@@ -114,19 +114,14 @@
                        <div class="col-md-7 padd_bottom">
                           <div class="heading3">
                              <a href="#"><img src="images/logo1.png" alt="#"/></a>
-                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.</p>
+                             <p>Dapatkan konsultasi online! ketahui jenis kulitmu dan solusi perawatan terbaikmu</p>
                           </div>
                        </div>
                        <div class="col-md-5 padd_bottom padd_bott">
                           <div class="heading3">
                              <h3>Contact Us</h3>
                              <ul class="infometion">
-                                <li><a href="#">Donec odio. Quisque </a></li>
-                                <li><a href="#">volutpat mattis</a></li>
-                                <li><a href="#">eros.Lorem ipsum dolor</a></li>
-                                <li><a href="#">sit amet, consectetuer  </a></li>
-                                <li><a href="#">adipiscing elit. Donec  </a></li>
-                                <li><a href="#">odio. Quisque volutpat </a></li>
+                                <li><a href="#">SkinScientis@gmail.com </a></li>
                              </ul>
                           </div>
                        </div>
@@ -138,12 +133,7 @@
                           <div class="heading3">
                              <h3>INFORMATION</h3>
                              <ul class="infometion">
-                                <li><a href="#">Donec odio. Quisque </a></li>
-                                <li><a href="#">volutpat mattis</a></li>
-                                <li><a href="#">eros.Lorem ipsum dolor</a></li>
-                                <li><a href="#">sit amet, consectetuer  </a></li>
-                                <li><a href="#">adipiscing elit. Donec  </a></li>
-                                <li><a href="#">odio. Quisque volutpat </a></li>
+                                <li><a href="#">SkinScientist.com</a></li>
                              </ul>
                           </div>
                        </div>
@@ -151,12 +141,7 @@
                           <div class="heading3">
                              <h3>MY ACCOUNT</h3>
                              <ul class="infometion">
-                                <li><a href="#">Donec odio. Quisque </a></li>
-                                <li><a href="#">volutpat mattis</a></li>
-                                <li><a href="#">eros.Lorem ipsum dolor</a></li>
-                                <li><a href="#">sit amet, consectetuer  </a></li>
-                                <li><a href="#">adipiscing elit. Donec  </a></li>
-                                <li><a href="#">odio. Quisque volutpat </a></li>
+                                <li><a href="#"> #SkinScientist_official </a></li>
                              </ul>
                           </div>
                        </div>
@@ -168,7 +153,7 @@
               <div class="container">
                  <div class="row">
                     <div class="col-md-12">
-                       <p>© {{date('Y')}} All Rights Reserved. <a href="https://html.design/"> Free  html Templates</a></p>
+                       <p>© {{date('Y')}} All Rights Reserved. <a href="https://html.design/"> Kelompok 5 Metodelogi Penelitian</a></p>
                     </div>
                  </div>
               </div>
